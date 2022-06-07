@@ -1,6 +1,7 @@
 body {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 15px;
+    color: #3a3a3a;
 }
 
 #main {
@@ -34,4 +35,44 @@ body {
     height: auto;
     margin: 0 auto;
 
+}
+
+#img-caption {
+    text-align: center;
+    margin: 15px 0;
+    font-size: 16px;
+}
+
+#tribute-info{
+    max-width: 550px;
+    height: auto;
+    margin: 50px auto;
+}
+
+
+#headline {
+    text-align: center;
+    margin: 50px 0;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+#tribute-info li {
+    margin: 16px 0;
+}
+
+#qouteblock {
+    margin: 50px auto;
+    font-style: italic;
+    padding: 0 20px;
+}
+
+.qoute {
+    margin: 20px 0;
+}
+
+#more-info{
+    text-align: center;
 }
